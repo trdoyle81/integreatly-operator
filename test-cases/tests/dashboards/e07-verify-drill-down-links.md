@@ -1,6 +1,9 @@
 ---
 targets:
   - 2.4.0
+tags:
+  - fresh-install
+  - postupgrade-public
 ---
 
 # E07 - Verify drill down links

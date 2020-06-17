@@ -1,6 +1,9 @@
 ---
 targets:
   - 2.4.0
+tags:
+  - fresh-install
+  - postupgrade-public
 ---
 
 # E08 - Verify values are correct in Resource usage dashboard

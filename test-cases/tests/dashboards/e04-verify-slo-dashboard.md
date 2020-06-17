@@ -2,6 +2,10 @@
 estimate: 30m
 automation_jiras:
   - INTLY-7421
+tags:
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # E04 - Verify SLO dashboard
