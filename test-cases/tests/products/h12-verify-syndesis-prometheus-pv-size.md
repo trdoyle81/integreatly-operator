@@ -1,6 +1,9 @@
 ---
 targets:
   - 2.3.0
+tags:
+  - postupgrade-public
+  - fresh-install
 ---
 
 # H12 - Verify Syndesis Prometheus PV size

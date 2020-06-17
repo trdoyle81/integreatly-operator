@@ -1,6 +1,8 @@
 ---
 tags:
   - happy-path
+  - postupgrade-public
+  - fresh-install
 estimate: 30m
 automation_jiras:
   - INTLY-7434

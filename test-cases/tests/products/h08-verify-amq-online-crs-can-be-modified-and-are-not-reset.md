@@ -2,6 +2,8 @@
 estimate: 4h
 tags:
   - happy-path
+  - postupgrade-public
+  - fresh-install
 automation_jiras:
   - INTLY-6123
 ---

@@ -2,6 +2,9 @@
 estimate: 15m
 automation_jiras:
   - INTLY-7439
+tags:
+  - postupgrade-public
+  - fresh-install
 ---
 
 # H11 - Verify 3scale SMTP Configuration

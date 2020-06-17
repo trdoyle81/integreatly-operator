@@ -1,5 +1,12 @@
 ---
 estimate: 30m
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
+  - RHPDS
 ---
 
 # H21 - Verify all products using the workload-web-app
