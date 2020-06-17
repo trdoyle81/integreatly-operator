@@ -1,7 +1,7 @@
 ---
 estimate: 1h
 tags:
- - preupgrade-public
+ - 
 ---
 
 # B04 - Verify Dedicated Admin User Permissions are Correct

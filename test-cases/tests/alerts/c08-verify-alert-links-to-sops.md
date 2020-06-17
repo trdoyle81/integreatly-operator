@@ -3,8 +3,11 @@ targets:
   - 2.3.0
   - 2.4.0
 tags:
- - postupgrade-public
- - fresh-install
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 ---
 
 # C08 - Verify alert links to SOPs

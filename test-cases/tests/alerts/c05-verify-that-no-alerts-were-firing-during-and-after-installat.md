@@ -3,12 +3,11 @@ estimate: 15m
 automation_jiras:
   - INTLY-7413
 tags:
- - preupgrade-public
- - postupgrade-public
- - fresh-install
- - preupgrade-private
- - postupgrade-private
- - destructive
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 ---
 
 # C05 - Verify that no alerts were firing during and after installation
