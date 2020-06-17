@@ -1,5 +1,9 @@
 ---
 estimate: 1h
+tags:
+  - postupgrade-public
+  - fresh-install
+  - RHPDS
 ---
 
 # G03 - Verify API development walkthrough

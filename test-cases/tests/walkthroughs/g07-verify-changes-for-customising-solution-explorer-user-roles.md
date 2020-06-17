@@ -1,6 +1,9 @@
 ---
 estimate: 15m
 tags:
+  - postupgrade-public
+  - fresh-install
+  - RHPDS
 ---
 
 # G07 - Verify changes for customising solution explorer user roles

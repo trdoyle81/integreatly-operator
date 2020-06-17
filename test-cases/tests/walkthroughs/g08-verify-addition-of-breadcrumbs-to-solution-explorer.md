@@ -1,6 +1,9 @@
 ---
 estimate: 15m
 tags:
+  - postupgrade-public
+  - fresh-install
+  - RHPDS
 ---
 
 # G08 - Verify addition of breadcrumbs to solution explorer

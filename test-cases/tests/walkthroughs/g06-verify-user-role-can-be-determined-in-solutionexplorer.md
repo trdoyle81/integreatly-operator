@@ -1,6 +1,9 @@
 ---
 estimate: 15m
 tags:
+  - postupgrade-public
+  - fresh-install
+  - RHPDS
 ---
 
 # G06 - Verify user role can be determined in solution-explorer

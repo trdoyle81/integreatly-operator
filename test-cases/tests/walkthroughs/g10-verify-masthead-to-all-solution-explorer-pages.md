@@ -1,5 +1,9 @@
 ---
 estimate: 15m
+tags:
+  - postupgrade-public
+  - fresh-install
+  - RHPDS
 ---
 
 # G10 - Verify masthead to all solution explorer pages

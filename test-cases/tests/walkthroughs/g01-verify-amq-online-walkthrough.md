@@ -1,5 +1,12 @@
 ---
 estimate: 30m
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
+  - RHPDS
 ---
 
 # G01 - Verify AMQ Online walkthrough
