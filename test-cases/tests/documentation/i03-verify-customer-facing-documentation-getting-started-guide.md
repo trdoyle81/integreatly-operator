@@ -1,5 +1,8 @@
 ---
 estimate: 3h
+tags:
+  - fresh-install
+  - postupgrade-public
 ---
 
 # I03 - verify customer facing documentation getting started guide

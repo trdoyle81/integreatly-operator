@@ -2,6 +2,9 @@
 estimate: 15m
 automation_jiras:
   - INTLY-6654
+tags:
+  - fresh-install
+  - postupgrade-public
 ---
 
 # F04 - Verify AWS s3 resources exist and are in expected state

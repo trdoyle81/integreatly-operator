@@ -1,5 +1,8 @@
 ---
 estimate: 7h
+tags:
+  - fresh-install
+  - postupgrade-public
 ---
 
 # I06 - verify customer facing documentation administrator guide
