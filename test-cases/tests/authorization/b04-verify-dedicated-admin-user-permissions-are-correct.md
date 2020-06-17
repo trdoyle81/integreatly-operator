@@ -1,7 +1,11 @@
 ---
 estimate: 1h
 tags:
- - 
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 ---
 
 # B04 - Verify Dedicated Admin User Permissions are Correct

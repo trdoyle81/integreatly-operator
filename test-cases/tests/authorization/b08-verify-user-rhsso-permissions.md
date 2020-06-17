@@ -1,6 +1,10 @@
 ---
 tags:
- - preupgrade-public
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 ---
 
 # B08 - Verify User RHSSO Permissions
