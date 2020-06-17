@@ -1,5 +1,10 @@
 ---
 estimate: 2h
+
+tags:
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # K02 - Run performance test against 3Scale
