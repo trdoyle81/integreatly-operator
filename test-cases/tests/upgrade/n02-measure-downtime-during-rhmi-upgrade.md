@@ -1,5 +1,8 @@
 ---
 estimate: 2h
+tags:
+  - preupgrade-public
+  - preupgrade-private
 ---
 
 # N02 - Measure downtime during RHMI upgrade

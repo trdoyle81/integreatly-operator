@@ -1,6 +1,8 @@
 ---
 tags:
   - happy-path
+  - preupgrade-public
+  - preupgrade-private
 estimate: 30m
 ---
 

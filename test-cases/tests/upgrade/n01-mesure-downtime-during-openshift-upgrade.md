@@ -1,5 +1,9 @@
 ---
 estimate: 2h
+tags:
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # N01 - Mesure downtime during OpenShift upgrade
