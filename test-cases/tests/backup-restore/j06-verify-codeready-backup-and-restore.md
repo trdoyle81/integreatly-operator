@@ -2,6 +2,11 @@
 estimate: 1h
 require:
   - J03
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # J06 - Verify CodeReady Backup and Restore

@@ -2,6 +2,11 @@
 estimate: 3h
 require:
   - J03
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # J05 - Verify 3scale backup and restore

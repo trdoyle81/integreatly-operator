@@ -3,6 +3,11 @@ estimate: 15m
 require:
   - J01
   - J02
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # J03 - Verify that namespaces get recreated by the integreatly-operator if deleted

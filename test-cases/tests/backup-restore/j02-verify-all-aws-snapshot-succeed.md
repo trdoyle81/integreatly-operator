@@ -1,7 +1,10 @@
 ---
 estimate: 1h
 tags:
- - preupgrade-public
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - destructive
 ---
 
 # J02 - Verify all AWS snapshot succeed
