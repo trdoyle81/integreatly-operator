@@ -1,5 +1,7 @@
 ---
 estimate: 1h
+tags:
+ - preupgrade-public
 ---
 
 # J01 - Verify that all in-cluster backups cron jobs succeed

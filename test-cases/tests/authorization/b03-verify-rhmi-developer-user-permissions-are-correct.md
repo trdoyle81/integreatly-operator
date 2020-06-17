@@ -2,6 +2,12 @@
 estimate: 1h
 automation_jiras:
   - INTLY-7748
+ tags:
+   - preupgrade-public
+   - postupgrade-public
+   - fresh-install
+   - preupgrade-private
+   - postupgrade-private
 ---
 
 # B03 - Verify RHMI Developer User Permissions are Correct

@@ -1,6 +1,9 @@
 ---
 targets:
   - 2.3.0
+tags:
+ - postupgrade-public
+ - fresh-install
 ---
 
 # C10 - Verify additional BlackboxTargets

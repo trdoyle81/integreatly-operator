@@ -1,5 +1,7 @@
 ---
 estimate: 1h
+tags:
+ - preupgrade-public
 ---
 
 # J02 - Verify all AWS snapshot succeed

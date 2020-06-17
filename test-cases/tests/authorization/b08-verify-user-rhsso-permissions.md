@@ -1,5 +1,6 @@
 ---
-tags: [] # Add tags here. See the tags section in the README for the list of tags that we use
+tags:
+ - preupgrade-public
 ---
 
 # B08 - Verify User RHSSO Permissions
