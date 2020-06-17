@@ -2,6 +2,9 @@
 targets:
   - 2.3.0
 estimate: 15m
+tags:
+  - postupgrade-public
+  - fresh-install
 ---
 
 # A20 - Verify cluster prometheus has RHMI targets

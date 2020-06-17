@@ -1,5 +1,11 @@
 ---
 estimate: 15m
+tags:
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 ---
 
 # A17 - Verify the Go functional tests were successful

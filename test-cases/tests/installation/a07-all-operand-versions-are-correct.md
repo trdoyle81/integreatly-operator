@@ -1,6 +1,11 @@
 ---
 tags:
   - happy-path
+  - preupgrade-public
+  - postupgrade-public
+  - fresh-install
+  - preupgrade-private
+  - postupgrade-private
 automation_jiras:
   - INTLY-7961
 ---

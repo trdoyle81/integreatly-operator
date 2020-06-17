@@ -1,5 +1,8 @@
 ---
 estimate: 15m
+tags:
+  - postupgrade-public
+  - fresh-install
 ---
 
 # A23 - Verify rhmi operator limits

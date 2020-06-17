@@ -3,6 +3,9 @@ estimate: 15m
 tags:
   - happy-path
   - automated
+  - postupgrade-public
+  - fresh-install
+
 ---
 
 # A16 - Custom first broker login flow
