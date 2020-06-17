@@ -1,9 +1,7 @@
 ---
 estimate: 15m
 tags:
-  - postupgrade-public
-  - fresh-install
-  - RHPDS
+  - 2.3.0
 ---
 
 # G14 - Verify services tab loaded as default

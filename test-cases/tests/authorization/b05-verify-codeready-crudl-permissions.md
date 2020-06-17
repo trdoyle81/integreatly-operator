@@ -1,10 +1,7 @@
 ---
 tags:
-  - preupgrade-public
   - postupgrade-public
   - fresh-install
-  - preupgrade-private
-  - postupgrade-private
 ---
 
 # B05 - Verify Codeready CRUDL Permissions

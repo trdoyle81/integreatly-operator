@@ -3,8 +3,7 @@ estimate: 15m
 tags:
   - happy-path
   - automated
-  - postupgrade-public
-  - fresh-install
+
 
 ---
 

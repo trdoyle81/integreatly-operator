@@ -1,10 +1,8 @@
 ---
 targets:
   - 2.4.0
-
 tags:
-  - postupgrade-public
-  - fresh-install
+  - automated
 ---
 
 # M04 - Verify rhmi_status metric

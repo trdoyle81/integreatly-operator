@@ -5,7 +5,6 @@ automation_jiras:
 tags:
   - postupgrade-public
   - fresh-install
-
 ---
 
 # C07 - Verify RHMI Alerts Metrics Exposed Via Telemtry

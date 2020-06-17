@@ -1,9 +1,5 @@
 ---
-tags:
-  - preupgrade-public
-  - postupgrade-public
-  - fresh-install
-  - preupgrade-private
+
 ---
 
 # A24 - Verify RC fixes

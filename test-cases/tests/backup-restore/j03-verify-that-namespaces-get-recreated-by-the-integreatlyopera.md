@@ -4,7 +4,6 @@ require:
   - J01
   - J02
 tags:
-  - preupgrade-public
   - postupgrade-public
   - fresh-install
   - destructive

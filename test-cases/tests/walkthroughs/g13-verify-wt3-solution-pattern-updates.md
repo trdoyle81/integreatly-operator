@@ -1,9 +1,7 @@
 ---
 estimate: 15m
 tags:
-  - postupgrade-public
-  - fresh-install
-  - RHPDS
+  - 2.3.0
 ---
 
 # G13 - Verify wt3 solution pattern updates

@@ -3,7 +3,6 @@ estimate: 3h
 require:
   - J03
 tags:
-  - preupgrade-public
   - postupgrade-public
   - fresh-install
   - destructive

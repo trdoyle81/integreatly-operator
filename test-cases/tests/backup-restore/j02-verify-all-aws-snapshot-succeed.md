@@ -1,7 +1,6 @@
 ---
 estimate: 1h
 tags:
-  - preupgrade-public
   - postupgrade-public
   - fresh-install
   - destructive
