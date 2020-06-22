@@ -7,6 +7,8 @@ tags:
 
 # M04 - Verify rhmi_status metric
 
+**Automated tests**: https://github.com/integr8ly/integreatly-operator/blob/master/test/common/rhmicr_metrics.go
+
 More info: <https://issues.redhat.com/browse/INTLY-8120>
 
 ## Steps

@@ -3,8 +3,6 @@ estimate: 15m
 tags:
   - happy-path
   - automated
-
-
 ---
 
 # A16 - Custom first broker login flow
